@@ -1,0 +1,17 @@
+body {
+  height: 100%;
+  width: 100%;
+  margin: 0px;
+  padding: 0px;
+}
+#bg1 {
+  background-image: url(./img/bg1.jpg);
+  background-size: cover;
+  width: 100%;
+  height: 600px;
+}
+#bg2 {
+  background-color: black;
+  width: 90%;
+  height: 500px;
+}
